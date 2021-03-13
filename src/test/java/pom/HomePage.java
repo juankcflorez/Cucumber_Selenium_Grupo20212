@@ -11,7 +11,7 @@ public class HomePage extends BasePage {
     }
 
     String titleHomePage = "imalittletester – Testing. With Java, Selenium, TestNG, Maven, Spring, IntelliJ and friends.";
-    By titleComicsLocator = By.id("menu-item-20083");
+    By titleComicsLocator = By.id("menu-item-2008");
 
 
     public boolean homePageIsDisplayed()throws Exception{

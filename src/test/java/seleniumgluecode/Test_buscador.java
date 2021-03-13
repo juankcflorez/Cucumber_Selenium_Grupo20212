@@ -54,11 +54,12 @@ public class Test_buscador extends TestBase {
     public void se_debe_visualizar_los_resultados_de_la_busqueda() throws Throwable {
 
         String url = driver.getCurrentUrl();
-        Assert.assertEquals("https://imalittletester.com/?s=Selenium",url);
+        Assert.assertEquals("https://imalittletester.com/?s=Selenium33",url);
 
 
 
     }
+
 
 
 
