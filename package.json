@@ -1,0 +1,16 @@
+{
+  "name": "cucumber_selenium_grupo2",
+  "version": "1.0.0",
+  "description": "Test report",
+  "main": "index.js",
+  "scripts": {
+
+    "report": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Camilo Cardenas Florez",
+  "license": "ISC",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^1.18.0"
+  }
+}
